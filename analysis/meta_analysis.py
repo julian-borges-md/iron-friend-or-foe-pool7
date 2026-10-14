@@ -1,6 +1,6 @@
 """
 Iron Overload and Male Hypogonadism: Random-Effects Meta-Analysis (Python cross-check)
-TDT male hypogonadism prevalence. PROSPERO CRD420261344877. Borges JYV, Eberwein R.
+TDT male hypogonadism prevalence. PROSPERO CRD420261344877. Borges JYV.
 
 Model: DerSimonian-Laird. Transformation: Freeman-Tukey double arcsine.
 Back-transform: Miller (1978), harmonic mean n.

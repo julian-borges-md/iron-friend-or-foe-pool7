@@ -2,7 +2,7 @@
 
 **Iron: Friend or Foe? Pool 7 (Male Hypogonadism)**
 
-Borges JYV, Eberwein R.
+Borges JYV.
 
 PROSPERO registration: [CRD420261344877](https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=1344877)
 
@@ -44,7 +44,7 @@ Expected pooled random-effects prevalence: 36.4% [95% CI 21.0 to 53.5], I2 = 87.
 
 ## Citation
 
-Borges JYV, Eberwein R. Iron overload and male hypogonadism: a systematic review and meta-analysis. 2026. PROSPERO CRD420261344877.
+Borges JYV. Iron overload and male hypogonadism: a systematic review and meta-analysis. 2026. PROSPERO CRD420261344877.
 
 ## License
 

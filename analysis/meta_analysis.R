@@ -2,7 +2,7 @@
 # Iron Overload and Male Hypogonadism: Random-Effects Meta-Analysis
 # Transfusion-Dependent Thalassaemia (TDT) male hypogonadism prevalence
 # PROSPERO: CRD420261344877
-# Authors: Borges JYV, Eberwein R
+# Author: Borges JYV
 # ==============================================================================
 # Model: DerSimonian-Laird random effects
 # Transformation: Freeman-Tukey double arcsine (PFT)

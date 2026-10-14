@@ -1,0 +1,7 @@
+study,year,country,n_males,events,prevalence_pct,ci_low,ci_high,chelation_status,population_note
+Papadimas,1996,Greece,30,10,33.3,18.4,51.3,Mixed,Clinic-referred
+Ghosh,2008,India,40,21,52.5,37.2,67.5,Non-chelated,Worst-case estimate
+Hagag,2016,Egypt,40,12,30.0,17.4,45.4,Mixed,Paediatric/adolescent
+Al-Agha,2020,Saudi Arabia,66,8,12.1,5.8,21.7,Mixed,Mixed TDT/sickle; male proportion
+Mahwi,2023,Iraq,27,19,70.4,51.5,85.1,Mixed,Endocrinology referral
+Chow,2024,Malaysia,54,15,27.8,17.1,40.7,Mixed,LIC-confirmed iron overload
